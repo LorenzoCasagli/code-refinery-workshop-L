@@ -1,5 +1,8 @@
 # code-refinery-workshop
 Practice the usage of Git in interactive lesson, make random changes
 to solve conflicts??????
-This time the changes are causing another conflict but we solve it via terminal
+
+Making some random modifications to make a merge conflict on purpose to the resolve it and feel like a genius. :)
+
+
 Add some more line
