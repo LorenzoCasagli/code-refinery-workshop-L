@@ -1,4 +1,5 @@
 # code-refinery-workshop
-Practice for day 1 Code Refinery course TUD
+Practice the usage of Git in interactive lesson, make random changes
+to solve conflicts??????
 
 Add some more line
