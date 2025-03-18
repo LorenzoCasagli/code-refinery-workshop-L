@@ -1,4 +1,4 @@
 # code-refinery-workshop
-Practice for day 1 Code Refinery course TUD
+Making some random modifications to make a merge conflict on purpose to the resolve it and feel like a genius. :)
 
 Add some more line
